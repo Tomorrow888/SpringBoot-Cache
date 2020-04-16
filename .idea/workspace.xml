@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85f6c524-4f6a-4133-9843-96e60c177d70" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/sbt_jedis/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbt_jedis/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbt_jedis/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbt_jedis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sbt_jedis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/config/JedisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/config/JedisUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbt_lettuce/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbt_lettuce/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbt_lettuce/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbt_lettuce/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sbt_lettuce/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbt_lettuce/src/test/java/com/jiajinshuo/sbt_lettuce/SbtLettuceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/sbt_lettuce/src/test/java/com/jiajinshuo/sbt_lettuce/SbtLettuceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbt_senior_cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbt_senior_cache/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbt_senior_cache/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/service/EmployeeService.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/sbt_senior_cache/target/" />
+    <ignored path="$PROJECT_DIR$/sbt_jedis/target/" />
+    <ignored path="$PROJECT_DIR$/sbt_lettuce/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/config/RedisConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/service/EmployeeService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/mapper/EmployeeMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>H:\资料\项目\sbt_senior\sbt_senior_cache\src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/mapper/DepartmentMapper.java" />
+        <option value="$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/domain/Department.java" />
+        <option value="$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/mapper/EmployeeMapper.java" />
+        <option value="$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/SbtSeniorApplication.java" />
+        <option value="$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/controller/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/sbt_senior_cache/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/sbt_senior_cache/pom.xml" />
+        <option value="$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/domain/Employee.java" />
+        <option value="$PROJECT_DIR$/sbt_jedis/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/config/JedisConfigOne.java" />
+        <option value="$PROJECT_DIR$/sbt_jedis/src/test/java/com/jiajinshuo/sbt_jedis/SbtJedisApplicationTests.java" />
+        <option value="$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/config/JedisConfig.java" />
+        <option value="$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/service/UserService.java" />
+        <option value="$PROJECT_DIR$/sbt_lettuce/src/main/java/com/jiajinshuo/sbt_lettuce/domain/User.java" />
+        <option value="$PROJECT_DIR$/sbt_lettuce/pom.xml" />
+        <option value="$PROJECT_DIR$/sbt_senior_cache/src/test/java/com/jiajinshuo/sbt_senior/SbtSeniorApplicationTests.java" />
+        <option value="$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/config/JedisUtil.java" />
+        <option value="$PROJECT_DIR$/sbt_jedis/pom.xml" />
+        <option value="$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/sbt_lettuce/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sbt_lettuce/src/test/java/com/jiajinshuo/sbt_lettuce/SbtLettuceApplicationTests.java" />
+        <option value="$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/domain/User.java" />
+        <option value="$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/service/EmployeeService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java\maven\repository" />
+        <option name="mavenHome" value="D:/huanjingzhunbei/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\huanjingzhunbei\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sbt_senior" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sbt_senior" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="305" />
+    <option name="y" value="200" />
+    <option name="width" value="1180" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_jedis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_jedis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_jedis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_jedis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_jedis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sbt_jedis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_jedis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sbt_jedis" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_jedis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sbt_jedis" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_jedis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sbt_jedis" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_jedis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sbt_jedis" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_senior_cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_senior_cache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_senior_cache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_senior_cache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_senior_cache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sbt_senior" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_senior_cache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sbt_senior" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_senior_cache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sbt_senior" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_senior_cache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sbt_senior" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbt_senior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbt_senior_cache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sbt_senior" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587011002003" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.74201185" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SbtJedisApplicationTests.StringTest">
+    <configuration name="SbtJedisApplicationTests.StringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sbt_jedis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiajinshuo.sbt_jedis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiajinshuo.sbt_jedis" />
+      <option name="MAIN_CLASS_NAME" value="com.jiajinshuo.sbt_jedis.SbtJedisApplicationTests" />
+      <option name="METHOD_NAME" value="StringTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SbtJedisApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sbt_jedis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiajinshuo.sbt_jedis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiajinshuo.sbt_jedis" />
+      <option name="MAIN_CLASS_NAME" value="com.jiajinshuo.sbt_jedis.SbtJedisApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SbtSeniorApplicationTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sbt_senior_cache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiajinshuo.sbt_senior.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiajinshuo.sbt_senior" />
+      <option name="MAIN_CLASS_NAME" value="com.jiajinshuo.sbt_senior.SbtSeniorApplicationTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SbtSeniorApplicationTests.testObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sbt_senior_cache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiajinshuo.sbt_senior.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiajinshuo.sbt_senior" />
+      <option name="MAIN_CLASS_NAME" value="com.jiajinshuo.sbt_senior.SbtSeniorApplicationTests" />
+      <option name="METHOD_NAME" value="testObject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SbtSeniorApplicationTests.testRedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sbt_senior_cache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiajinshuo.sbt_senior.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiajinshuo.sbt_senior" />
+      <option name="MAIN_CLASS_NAME" value="com.jiajinshuo.sbt_senior.SbtSeniorApplicationTests" />
+      <option name="METHOD_NAME" value="testRedis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SbtJedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sbt_jedis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiajinshuo.sbt_jedis.SbtJedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SbtLettuceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sbt_lettuce" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiajinshuo.sbt_lettuce.SbtLettuceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SbtSeniorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sbt_senior_cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiajinshuo.sbt_senior.SbtSeniorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SbtJedisApplicationTests.StringTest" />
+        <item itemvalue="JUnit.SbtJedisApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.SbtSeniorApplicationTests.testObject" />
+        <item itemvalue="JUnit.SbtSeniorApplicationTests.testRedis" />
+        <item itemvalue="JUnit.SbtSeniorApplicationTests.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85f6c524-4f6a-4133-9843-96e60c177d70" name="Default Changelist" comment="" />
+      <created>1585019318133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585019318133</updated>
+      <workItem from="1585019328639" duration="703000" />
+      <workItem from="1585020214794" duration="17701000" />
+      <workItem from="1585113691608" duration="19521000" />
+      <workItem from="1585453990260" duration="2751000" />
+      <workItem from="1586932822581" duration="7955000" />
+      <workItem from="1587008848735" duration="2152000" />
+    </task>
+    <task id="LOCAL-00001" summary="0329">
+      <created>1585492708826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585492708826</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SbtJedisApplicationTests_contextLoads - 2020.03.25 at 14h 23m 34s.xml">
+      <configuration name="SbtJedisApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SbtJedisApplicationTests_contextLoads - 2020.03.25 at 14h 26m 10s.xml">
+      <configuration name="SbtJedisApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SbtJedisApplicationTests_contextLoads - 2020.03.25 at 14h 29m 51s.xml">
+      <configuration name="SbtJedisApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SbtJedisApplicationTests_contextLoads - 2020.03.25 at 14h 32m 06s.xml">
+      <configuration name="SbtJedisApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SbtJedisApplicationTests_contextLoads - 2020.03.25 at 14h 38m 26s.xml">
+      <configuration name="SbtJedisApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SbtJedisApplicationTests_contextLoads - 2020.03.25 at 14h 51m 07s.xml">
+      <configuration name="SbtJedisApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SbtJedisApplicationTests_contextLoads - 2020.03.25 at 14h 51m 32s.xml">
+      <configuration name="SbtJedisApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SbtJedisApplicationTests_contextLoads - 2020.03.25 at 14h 54m 02s.xml">
+      <configuration name="SbtJedisApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SbtJedisApplicationTests_StringTest - 2020.03.25 at 15h 35m 20s.xml">
+      <configuration name="SbtJedisApplicationTests.StringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SbtJedisApplicationTests_StringTest - 2020.03.25 at 15h 36m 18s.xml">
+      <configuration name="SbtJedisApplicationTests.StringTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50783000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49825174" visible="true" weight="0.21045576" />
+      <window_info id="Structure" order="1" sideWeight="0.50174826" side_tool="true" weight="0.17493297" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.048090525" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.04249292" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.1756374" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0329" />
+    <option name="LAST_COMMIT_MESSAGE" value="0329" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.4.RELEASE/spring-context-5.2.4.RELEASE.jar!/org/springframework/cache/annotation/CachePut.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.5.RELEASE/spring-data-redis-2.2.5.RELEASE.jar!/org/springframework/data/redis/serializer/RedisSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.5.RELEASE/spring-data-redis-2.2.5.RELEASE.jar!/org/springframework/data/redis/serializer/Jackson2JsonRedisSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.5.RELEASE/spring-data-redis-2.2.5.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/domain/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.5.RELEASE/spring-data-redis-2.2.5.RELEASE.jar!/org/springframework/data/redis/cache/RedisCacheManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="54" column="42" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/sonatype/oss/oss-parent/7/oss-parent-7.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/mapper/DepartmentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_senior_cache/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_senior_cache/src/test/java/com/jiajinshuo/sbt_senior/SbtSeniorApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_senior_cache/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/domain/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/SbtSeniorApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_jedis/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_lettuce/src/main/java/com/jiajinshuo/sbt_lettuce/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/redis/clients/jedis/3.1.0/jedis-3.1.0.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_jedis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/SbtJedisApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_jedis/src/test/java/com/jiajinshuo/sbt_jedis/SbtJedisApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/3.1.0/jedis-3.1.0.jar!/redis/clients/jedis/JedisPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="65" column="78" selection-start-line="65" selection-start-column="74" selection-end-line="65" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/config/JedisConfigOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="48" column="80" selection-start-line="48" selection-start-column="73" selection-end-line="48" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/config/JedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="3" column="48" lean-forward="true" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding>
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.5.RELEASE/spring-data-redis-2.2.5.RELEASE.jar!/org/springframework/data/redis/connection/RedisConnectionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.5.RELEASE/spring-data-redis-2.2.5.RELEASE.jar!/org/springframework/data/redis/connection/jedis/JedisConnectionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.5.RELEASE/spring-data-redis-2.2.5.RELEASE-sources.jar!/org/springframework/data/redis/connection/jedis/JedisConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.5.RELEASE/spring-data-redis-2.2.5.RELEASE-sources.jar!/org/springframework/data/redis/connection/RedisConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="54" column="69" selection-start-line="54" selection-start-column="69" selection-end-line="54" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_lettuce/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_jedis/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.5.RELEASE/spring-data-redis-2.2.5.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="88" column="13" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-940">
+          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_lettuce/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_jedis/src/main/java/com/jiajinshuo/sbt_jedis/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_lettuce/src/test/java/com/jiajinshuo/sbt_lettuce/SbtLettuceApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/mapper/EmployeeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/config/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt_senior_cache/src/main/java/com/jiajinshuo/sbt_senior/service/EmployeeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.74201185" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.74201185" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.74201185" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sbt_lettuce</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.74201185" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

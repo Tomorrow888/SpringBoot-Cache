@@ -15,7 +15,7 @@ import redis.clients.jedis.JedisPool;
 public class JedisUtil {
 
     @Autowired
-    static JedisPool jedisPool;
+    private static JedisPool jedisPool;
 
     /**
      * 获得redis连接

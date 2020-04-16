@@ -10,3 +10,6 @@ spring:
         min-idle: 0 #最小空闲数
         max-wait: 1000 #连接池最大阻塞等待时间
       shutdown-timeout: 100 #关闭超时时间
+
+
+#源码中的jedis不生效

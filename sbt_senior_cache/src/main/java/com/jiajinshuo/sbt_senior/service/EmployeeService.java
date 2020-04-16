@@ -3,6 +3,7 @@ package com.jiajinshuo.sbt_senior.service;
 import com.jiajinshuo.sbt_senior.domain.Employee;
 import com.jiajinshuo.sbt_senior.mapper.EmployeeMapper;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.CachePut;
 import org.springframework.cache.annotation.Cacheable;
@@ -20,6 +21,7 @@ public class EmployeeService {
     EmployeeMapper employeeMapper;
 
     @Autowired
+    @Qualifier("redisTemplate")
     RedisTemplate<String,Object> redisTemplate;
 
     /**

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sbt_jedis/sbt_jedis.iml" filepath="$PROJECT_DIR$/sbt_jedis/sbt_jedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbt_lettuce/sbt_lettuce.iml" filepath="$PROJECT_DIR$/sbt_lettuce/sbt_lettuce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbt_senior_cache/sbt_senior_cache.iml" filepath="$PROJECT_DIR$/sbt_senior_cache/sbt_senior_cache.iml" />
+    </modules>
+  </component>
+</project>
